@@ -3,6 +3,7 @@
 My solutions to LeetCode coding challenges. Mostly solved in **Java**.
 
 ## Structure
+```
 leetcode/
 ├── easy/
 │ └── 0125-valid-palindrome/
@@ -10,3 +11,4 @@ leetcode/
 │ └── README.md
 ├── medium/
 └── hard/
+```
